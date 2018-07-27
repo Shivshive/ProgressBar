@@ -80,7 +80,7 @@ function takeUser_Input() {
             const properties = [
                 {
                     name: "filePath",
-                    message: 'Enter File Path > ',
+                    message: chalk.green('Enter File Path > '),
                     type: "input",
                     validate: function (value) {
                         var filPath = value;
@@ -100,7 +100,7 @@ function takeUser_Input() {
                 },
                 {
                     name: "records",
-                    message: "Enter records to filter > ",
+                    message: chalk.green("Enter records to filter > "),
                     type: "input",
                     validate: function (value) {
 
