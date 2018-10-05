@@ -4,7 +4,7 @@ ProgressBar is a NodeJS application that filter file records and create a new fi
 
 ![Screenshot](Image1.png)
 
-#### Alt-H4 Steps to Configure Project - 
+#### Steps to Configure Project - 
 > + Install NODEJS in system. (Skip this step if nodejs is already installed.
 > + Move to Project Directory. Command - cd ProgressBar
 > + Install Yarn. Command - **npm install -g yarn** (Skip thi step if yarn is already installed).
